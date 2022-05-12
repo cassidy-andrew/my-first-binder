@@ -1,1 +1,10 @@
-numpy==1.14.5
+display
+Markdown 
+Latex
+numpy
+math
+pandas 
+matplotlib
+glob
+display
+os
