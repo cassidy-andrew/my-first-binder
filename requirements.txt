@@ -4,6 +4,5 @@ Latex
 numpy
 pandas 
 matplotlib
-glob
 display
 os
