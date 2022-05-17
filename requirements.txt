@@ -1,8 +1,8 @@
-display
-Markdown 
-Latex
 numpy
 pandas 
 matplotlib
-display
 openpyxl
+xlrd
+HTML
+os
+glob
