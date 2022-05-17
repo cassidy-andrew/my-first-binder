@@ -3,5 +3,4 @@ pandas
 matplotlib
 openpyxl
 xlrd
-HTML
 glob
