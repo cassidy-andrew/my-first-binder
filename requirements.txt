@@ -4,5 +4,4 @@ matplotlib
 openpyxl
 xlrd
 HTML
-os
 glob
